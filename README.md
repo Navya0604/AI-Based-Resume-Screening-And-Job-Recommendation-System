@@ -71,15 +71,18 @@ Each recommendation includes:
 
 ### Home Page
 
-![Home Page](screenshots/Home.png)
+![Home Page](<img width="1600" height="900" alt="WhatsApp Image 2026-08-24 at 10 08 53" src="https://github.com/user-attachments/assets/6f81f177-a70e-48ed-84ff-a5b688c71fa1" />
+)
 
 ### Resume Upload
 
-![Resume Upload](screenshots/ResumeUpload.png)
+![Resume Upload](<img width="1600" height="900" alt="WhatsApp Image 2026-08-24 at 10 08 54" src="https://github.com/user-attachments/assets/d1e46bd2-8f1a-45ea-b48c-2814760c9aae" />
+)
 
 ### Result & Job Recommendations
 
-![Result](screenshots/Result.png)
+![Result](<img width="1600" height="900" alt="WhatsApp Image 2026-08-24 at 10 08 54 (1)" src="https://github.com/user-attachments/assets/4b951993-3c68-4f2d-8cbe-d5b3e92283c8" />
+)
 
 ---
 
